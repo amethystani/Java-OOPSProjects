@@ -1,1 +1,2 @@
 # Java-OOPSProjects
+This repository is a part of the course CSD213 - OBJECT ORIENTED PROGRAMMING taught at Shiv Nadar University. Here, you'll find projects created as part of the course, showcasing practical implementations of object-oriented programming concepts. Explore the code and gain insights into building software solutions using OOP principles. Feel free to contribute, learn, and enhance your programming skills.
